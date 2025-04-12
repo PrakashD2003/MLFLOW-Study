@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programming/MLOPS%20ROOT/MLFLOW-Study/mlruns/931436688763232835/e9103955f5794a5b8d305a9ed8b8658a/artifacts
+end_time: 1744461574089
+entry_point_name: ''
+experiment_id: '931436688763232835'
+lifecycle_stage: active
+run_id: e9103955f5794a5b8d305a9ed8b8658a
+run_name: capable-shad-399
+run_uuid: e9103955f5794a5b8d305a9ed8b8658a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744461569738
+status: 3
+tags: []
+user_id: praka

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programming/MLOPS%20ROOT/MLFLOW-Study/mlruns/0/72006c13026345868ae276ea7fb46684/artifacts
+end_time: 1744454505025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72006c13026345868ae276ea7fb46684
+run_name: illustrious-foal-461
+run_uuid: 72006c13026345868ae276ea7fb46684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744454504983
+status: 3
+tags: []
+user_id: praka

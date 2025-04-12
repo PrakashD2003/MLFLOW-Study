@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Programming/MLOPS%20ROOT/MLFLOW-Study/mlruns/0/cb68afe7602d48acb64b737a3bb405f2/artifacts
+deleted_time: 1744454635594
+end_time: 1744454449415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cb68afe7602d48acb64b737a3bb405f2
+run_name: crawling-cat-248
+run_uuid: cb68afe7602d48acb64b737a3bb405f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744454449389
+status: 4
+tags: []
+user_id: praka

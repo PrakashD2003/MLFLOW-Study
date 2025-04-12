@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Programming/MLOPS%20ROOT/MLFLOW-Study/mlruns/0/007ef811f5634a7d8070b0520c34bb26/artifacts
+deleted_time: 1744454635595
+end_time: 1744454350825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 007ef811f5634a7d8070b0520c34bb26
+run_name: victorious-bug-336
+run_uuid: 007ef811f5634a7d8070b0520c34bb26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744454350784
+status: 4
+tags: []
+user_id: praka

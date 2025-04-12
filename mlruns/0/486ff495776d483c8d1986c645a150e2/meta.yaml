@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programming/MLOPS%20ROOT/MLFLOW-Study/mlruns/0/486ff495776d483c8d1986c645a150e2/artifacts
+end_time: 1744458219853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 486ff495776d483c8d1986c645a150e2
+run_name: awesome-slug-337
+run_uuid: 486ff495776d483c8d1986c645a150e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744458219803
+status: 3
+tags: []
+user_id: praka

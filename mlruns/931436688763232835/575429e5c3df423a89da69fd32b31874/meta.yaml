@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programming/MLOPS%20ROOT/MLFLOW-Study/mlruns/931436688763232835/575429e5c3df423a89da69fd32b31874/artifacts
+end_time: 1744478707109
+entry_point_name: ''
+experiment_id: '931436688763232835'
+lifecycle_stage: active
+run_id: 575429e5c3df423a89da69fd32b31874
+run_name: delicate-shoat-518
+run_uuid: 575429e5c3df423a89da69fd32b31874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744478702092
+status: 3
+tags: []
+user_id: praka
